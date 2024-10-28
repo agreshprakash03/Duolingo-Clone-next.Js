@@ -39,7 +39,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 This project is actively being worked on. Be careful while making changes.
 
 ## Collaborators
-Akshat Kumar Sharma 
-Agresh Prakash 
-Lokesh Kumar Sinha 
-Sarthak Chandrayan 
+1. Akshat Kumar Sharma 
+2. Agresh Prakash 
+3. Lokesh Kumar Sinha 
+4. Sarthak Chandrayan 
